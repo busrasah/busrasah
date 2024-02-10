@@ -38,9 +38,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=busrasah&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=busrasah&theme=darkhub&no-frame=false&no-bg=false&margin-w=4) -->
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=busrasah&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
