@@ -4,7 +4,7 @@
     
   <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
     
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=blue&lines=Tutkulu+bir+Full-Stack+Developer+..;)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=blue&lines=Tutkulu+bir+Front-End+Developer+..;)
   
   <a href="https://busrasah.github.io/#" target="_blank">WEB SİTESİ </a>
 
